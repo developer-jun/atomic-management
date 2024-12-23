@@ -1,0 +1,11 @@
+{
+  "name": "jun/atomic-management",
+  "description": "Project Management Plugin for WordPress",
+  "type": "wordpress-plugin",
+  "autoload": {
+      "psr-4": {
+          "Domain\\": "includes/"
+      }
+  },
+  "require": {}
+}
